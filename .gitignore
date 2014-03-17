@@ -1,0 +1,10 @@
+/.cabal-sandbox/
+/dist/
+cabal.sandbox.config
+*.hp
+*.hi
+*.prof
+*.o
+*.aux
+*.ps
+dup
